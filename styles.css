@@ -21,7 +21,7 @@ body {
 .hero-overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg, rgba(59,30,90,0.8), rgba(191,167,227,0.8));
+  background: linear-gradient(135deg, rgba(59, 30, 90, 0.8), rgba(191, 167, 227, 0.8));
 }
 
 .nav {
@@ -34,7 +34,7 @@ body {
 }
 
 .logo {
-  height: 36px;
+  height: 110px;
 }
 
 .lang-toggle {
